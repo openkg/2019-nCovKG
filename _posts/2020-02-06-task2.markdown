@@ -1,7 +1,7 @@
 ---
 layout: postWrapper
 title:  "新冠科研"
-permalink: "/task2"
+permalink: "/2019-nCovKG/task2"
 ---
 
 新冠科研

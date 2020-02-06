@@ -1,7 +1,7 @@
 ---
 layout: postWrapper
 title:  "新冠防控"
-permalink: "/task4"
+permalink: "/2019-nCovKG/task4"
 ---
 
 新冠防控

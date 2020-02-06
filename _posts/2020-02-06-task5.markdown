@@ -1,7 +1,7 @@
 ---
 layout: postWrapper
 title:  "新冠英雄"
-permalink: "/task5"
+permalink: "/2019-nCovKG/task5"
 ---
 
 新冠英雄
