@@ -1,7 +1,7 @@
 ---
 layout: postWrapper
 title:  "新冠临床"
-permalink: "/2019-nCovKG/task3"
+permalink: "/task3"
 ---
 
 新冠临床

@@ -1,7 +1,7 @@
 ---
 layout: postWrapper
 title:  "新冠事件"
-permalink: "/2019-nCovKG/task6"
+permalink: "/task6"
 ---
 
 新冠事件
